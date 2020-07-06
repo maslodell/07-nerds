@@ -1,0 +1,25 @@
+
+.header{
+    border: 1px solid #111;
+ }
+
+.header-menu ul{
+    displey: flex;
+    list-style: none;
+  }
+
+.header-menu ul li{
+   padding-right: 25px;
+   }
+
+.product-item{
+    border: 1px solid crimson;
+  }
+
+ .products{
+    dyspley: flex;
+  }
+
+.row{
+  display: flex;
+   }
